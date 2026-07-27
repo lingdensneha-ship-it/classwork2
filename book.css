@@ -1,0 +1,23 @@
+.seconditm{
+    color:red;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration:underline;
+    border-style:solid;
+    border-color:aqua;
+    border-width:5px 10px 15px 20px;
+}
+#secid{
+    color:blue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration:underline;
+}
+#thirid{
+    color:blueviolet;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration:underline;
+}
+#forid{
+    color:green;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration:underline;
+}
